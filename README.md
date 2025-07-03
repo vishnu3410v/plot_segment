@@ -1,4 +1,4 @@
-#  ECG Segment Visualizer
+#  ECG Segment Visualizer 
 
 This simple yet powerful script allows you to visualize a **specific time segment** of an ECG waveform from a `.csv` file converted from the MIT-BIH Arrhythmia Database.
 
